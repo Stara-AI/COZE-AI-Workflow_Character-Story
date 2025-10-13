@@ -1,8 +1,8 @@
 
 
-|                           |                               |
+|     沉浸式中国古代历史故事                      |     历史人物生平叙事                          |
 | ------------------------- | ----------------------------- |
-| <video id="video" controls="" preload="none"> <source id="mp4" src="./Videos/仓央嘉措.mp4" type="video/mp4"> </video> | ![](./image/历史人物一生.gif) |
+|![](./image/仓央嘉措.gif) | ![](./image/历史人物一生.gif) |
 
 ## 两种导入模式：
 
