@@ -27,6 +27,8 @@
 1. ![](./image/chenjinshi_lishigushi.png)
 
 2. ![](./image/lishirenwu_chuanqiyisheng.png)
+   
+3. ![](./image/jinrihuati_video.png)
 
 ## 博客：
 
