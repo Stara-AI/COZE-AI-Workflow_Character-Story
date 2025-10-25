@@ -24,11 +24,11 @@
 
 ## 整体效果：
 
-1. ![](./image/chenjinshi_lishigushi.png)
+1. ![沉浸式历史故事](./image/chenjinshi_lishigushi.png)
 
-2. ![](./image/lishirenwu_chuanqiyisheng.png)
+2. ![历史人物一生](./image/lishirenwu_chuanqiyisheng.png)
    
-3. ![](./image/jinrihuati_video.png)
+3. ![今日话题](./image/jinrihuati_video.png)
 
 ## 博客：
 
