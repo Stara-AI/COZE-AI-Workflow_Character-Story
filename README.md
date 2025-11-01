@@ -25,12 +25,11 @@
 ## 整体效果：
 
 1. 沉浸式历史故事 ![](./image/chenjinshi_lishigushi.png)
-
 2. 历史人物一生 ![](./image/lishirenwu_chuanqiyisheng.png)
-   
 3. 今日话题 ![](./image/jinrihuati_video.png)
-   
-4. 假如书籍会说话  ![](./image/jiarushujispeak_video.png)
+4. 假如书籍会说话 ![](./image/jiarushujispeak_video.png)
+5. 历史哄睡 ![](./image/history_sleep_video(历史助眠).png)
+6. 励志主题文案 ![](./image/self_improvement_video(励志).png)
 
 ## 博客：
 
