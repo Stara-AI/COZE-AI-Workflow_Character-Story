@@ -29,6 +29,8 @@
 2. 历史人物一生 ![](./image/lishirenwu_chuanqiyisheng.png)
    
 3. 今日话题 ![](./image/jinrihuati_video.png)
+   
+4. 假如书籍会说话  ![](./image/jiarushujispeak_video.png)
 
 ## 博客：
 
