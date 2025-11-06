@@ -30,6 +30,7 @@
 4. 假如书籍会说话 ![](./image/jiarushujispeak_video.png)
 5. 历史哄睡 ![](./image/history_sleep_video(历史助眠).png)
 6. 励志主题文案 ![](./image/self_improvement_video(励志).png)
+7. 一键生成知识卡片  ![](./image/zhishi_card.png)
 
 ## 博客：
 
